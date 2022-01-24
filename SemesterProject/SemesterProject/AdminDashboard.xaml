@@ -1,0 +1,33 @@
+﻿<Window x:Class="SemesterProject.AdminDashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SemesterProject"
+        mc:Ignorable="d"
+        Title="AdminDashboard" Height="450" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="images.jpg">
+    <Window.Background>
+        <ImageBrush ImageSource="istockphoto-889402258-1024x1024.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="DaewooExpress.jpg"/>
+        </Grid.Background>
+
+        <Button Content="Bus Details" Margin="178,95,165,273" Click="Button_Click_1"/>
+        <Button Content="View Schedule" Margin="178,14,165,354" Click="Button_Click"/>
+        <Button Content="Driver details" Margin="178,178,165,190" Click="Button_Click_2"/>
+        <Button Content="Passenger Panel" Margin="178,258,165,110" Click="Button_Click_3"/>
+        <Button x:Name="logout" Margin="437,14,10,378" Click="logout_Click_1" Cursor="Hand" Content="Logout" >
+            <Button.Template>
+                <ControlTemplate>
+                    <Image Source="User-Interface-Login-icon.png"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+    </Grid>
+</Window>

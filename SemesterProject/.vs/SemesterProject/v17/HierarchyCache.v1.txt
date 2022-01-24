@@ -1,0 +1,214 @@
+﻿++Solution 'SemesterProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:SemesterProject.sln
+++SemesterProject
+i:{00000000-0000-0000-0000-000000000000}:SemesterProject
+++Properties
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\properties\
+++References
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++AddNewBus.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\addnewbus.xaml
+++AddNewDriver.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\addnewdriver.xaml
+++AdminDashboard.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\admindashboard.xaml
+++AdminLoginScreen.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\adminloginscreen.xaml
+++App.config
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\app.config
+++App.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\app.xaml
+++back-button.png
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\back-button.png
+++BackIcon.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\backicon.jpg
+++Bus_terminal_Pic.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\bus_terminal_pic.jpg
+++BusDetailsScreen.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\busdetailsscreen.xaml
+++daewoo-express-gold-classs-bus-1-1200x500.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\daewoo-express-gold-classs-bus-1-1200x500.jpg
+++DaewooExpress.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\daewooexpress.jpg
+++DaewooLogo.png
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\daewoologo.png
+++deletePic.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\deletepic.jpg
+++download.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\download.jpg
+++DriverDetailsScreen.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\driverdetailsscreen.xaml
+++EditBusDetails.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\editbusdetails.xaml
+++historyIcon.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\historyicon.jpg
+++historyTickets.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\historytickets.xaml
+++historyTickets.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\historytickets.xaml.cs
+++Home.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\home.xaml
+++Home.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\home.xaml.cs
+++homeIcon.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\homeicon.jpg
+++images (1).jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\images (1).jpg
+++images.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\images.jpg
+++istockphoto-1294284870-1024x1024.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\istockphoto-1294284870-1024x1024.jpg
+++istockphoto-889402258-1024x1024.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\istockphoto-889402258-1024x1024.jpg
+++MainWindow.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\mainwindow.xaml
+++New-Khan-Higer.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\new-khan-higer.jpg
+++NextIcon.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\nexticon.jpg
+++packages.config
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\packages.config
+++PassengerPanel.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\passengerpanel.xaml
+++pexels-olga-lioncat-7245319.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\pexels-olga-lioncat-7245319.jpg
+++pexels-olga-lioncat-7245323.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\pexels-olga-lioncat-7245323.jpg
+++Photo Editor_2019102922390721.png
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\photo editor_2019102922390721.png
+++ProjectDB.edmx
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.edmx
+++ProjectDB.mdf
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.mdf
+++RegistrationBackground.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\registrationbackground.jpg
+++registrationProcess.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\registrationprocess.jpg
+++Report.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\report.xaml
+++ReservationProcess.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\reservationprocess.xaml
+++ReservationProcessBackgroundPic.jpg
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\reservationprocessbackgroundpic.jpg
+++schedule.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\schedule.xaml
+++schedule_edit.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\schedule_edit.xaml
+++ScheduleWindow.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\schedulewindow.xaml
+++searchIcon.png
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\searchicon.png
+++SeatsAvailability.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\seatsavailability.xaml
+++Ticket.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\ticket.xaml
+++User-Interface-Login-icon.png
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\user-interface-login-icon.png
+++UserRecord.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\userrecord.xaml
+++Window1.xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\window1.xaml
+++AssemblyInfo.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\properties\assemblyinfo.cs
+++Resources.resx
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\properties\resources.resx
+++Settings.settings
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\properties\settings.settings
+++EntityFramework
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++EntityFramework.SqlServer
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++Microsoft.CSharp
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++PresentationCore
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++PresentationFramework
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.ComponentModel.DataAnnotations
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Core
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Data
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Data.DataSetExtensions
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Net.Http
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Runtime.Serialization
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Security
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Xaml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Xml
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++System.Xml.Linq
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++WindowsBase
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:
+++AddNewBus.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\addnewbus.xaml.cs
+++AddNewDriver.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\addnewdriver.xaml.cs
+++AdminDashboard.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\admindashboard.xaml.cs
+++AdminLoginScreen.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\adminloginscreen.xaml.cs
+++App.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\app.xaml.cs
+++BusDetailsScreen.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\busdetailsscreen.xaml.cs
+++DriverDetailsScreen.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\driverdetailsscreen.xaml.cs
+++EditBusDetails.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\editbusdetails.xaml.cs
+++MainWindow.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\mainwindow.xaml.cs
+++PassengerPanel.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\passengerpanel.xaml.cs
+++ProjectDB.Context.tt
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.context.tt
+++ProjectDB.Designer.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.designer.cs
+++ProjectDB.edmx.diagram
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.edmx.diagram
+++ProjectDB.tt
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.tt
+++ProjectDB_log.ldf
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb_log.ldf
+++Report.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\report.xaml.cs
+++ReservationProcess.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\reservationprocess.xaml.cs
+++schedule.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\schedule.xaml.cs
+++schedule_edit.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\schedule_edit.xaml.cs
+++ScheduleWindow.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\schedulewindow.xaml.cs
+++SeatsAvailability.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\seatsavailability.xaml.cs
+++Ticket.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\ticket.xaml.cs
+++UserRecord.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\userrecord.xaml.cs
+++Window1.xaml.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\window1.xaml.cs
+++Resources.Designer.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\properties\settings.designer.cs
+++ProjectDB.Context.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.context.cs
+++ProjectDB.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\projectdb.cs
+++Table.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\table.cs
+++Table2.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\table2.cs
+++Table3.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\table3.cs
+++Table4.cs
+i:{eb294c62-f7cf-4385-91f7-4bd59a1b0841}:f:\visual studio programs\semesterproject\semesterproject\semesterproject\table4.cs

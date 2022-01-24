@@ -1,0 +1,23 @@
+﻿<Window x:Class="SemesterProject.schedule_edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SemesterProject"
+        mc:Ignorable="d"
+        Title="schedule_edit" Height="347" Width="400" Icon="images.jpg" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images.jpg"/>
+        </Grid.Background>
+
+        <Button Content="Update" HorizontalAlignment="Left" Margin="209,243,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="164,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="164,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="164,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Departure:" HorizontalAlignment="Left" Margin="83,68,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Destination:" HorizontalAlignment="Left" Margin="83,128,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Time:" HorizontalAlignment="Left" Margin="83,179,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
